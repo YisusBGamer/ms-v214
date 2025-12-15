@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Moonlight</h1>
+  DEV DISCORD https://discord.com/invite/F3gxsSTuHV
 
   **Moonlight** is the source-code of a Maplestory GMS v214 private server, including an authentication hook and launcher.
 
